@@ -1,4 +1,4 @@
-# Hi there, I'm Dimas - aka [Danikaputra19](https://www.youtube.com/@danikaputra19) 👋
+# Hi there, I'm Danika - aka [Danikaputra19](https://www.youtube.com/@danikaputra19) 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst and Data Entry
@@ -37,7 +37,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)]()
+[![website](./img/facebook-light.svg)](https://www.facebook.com/dnkarief.dnkarief?mibextid=ZbWKwL)
 [![website](./img/youtube-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/danikaputra19/?hl=en#gh-light-mode-only)
