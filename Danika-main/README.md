@@ -1,16 +1,16 @@
-# Hi there, I'm Dimas - aka [DNZ XD](https://www.youtube.com/@dnzxd154) 👋
+# Hi there, I'm Dimas - aka [Danikaputra19](https://www.youtube.com/@danikaputra19) 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst and Data Entry
 - 🤔 I’m looking for suggest for Data Entry and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: naufaldimas05@gmail.com
+- 📫 How to reach me: danikaputra19@gmail.com
 
 ## Education:
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Chief of 12 Grade Class
- #### 2. [MTS Nurul Qur'an](https://www.nurul-quran.sch.id/) | Bogor `2018-2020`
+ #### 2. [SMP Al-Hadiid 1 cileungsi](https://alhadiid.mysch.id/) | Bogor `2018-2020`
    
 
 ## Work Experience:
@@ -19,6 +19,7 @@
    - Data Register
    - Data Validation
    - Vaccine Checker
+   - Design graphic
 ---
 
 ### Languages and Tools:
@@ -36,11 +37,11 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@dnzxd154#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@dnzxd154#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)]()
+[![website](./img/youtube-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dims_dnz/?hl=en#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dims_dnz/?hl=en#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/danikaputra19/?hl=en#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/danikaputra19/?hl=en#gh-dark-mode-only)
 
 
 
