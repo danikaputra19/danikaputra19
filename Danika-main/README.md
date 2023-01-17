@@ -37,8 +37,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/facebook-light.svg)](https://www.facebook.com/dnkarief.dnkarief?mibextid=ZbWKwL)
-[![website](./img/youtube-dark.svg)]()
+
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/danikaputra19/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/danikaputra19/?hl=en#gh-dark-mode-only)
